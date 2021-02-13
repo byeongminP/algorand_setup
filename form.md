@@ -2,35 +2,35 @@
 
 ## Step 1.1:
 
-* Address of account A: 
-* Address of account B: 
+* Address of account A: SGJVHXQQU2T2XGEHJQNON5JQQ7NF4V4C6NNST3JDJP57RYF6G46DZZX4LQ
+* Address of account B: KFBHAQGL4ABO2ZOGR3A7EFH7ZYML6RZLFVXEGHAH77ZSD43D6F4LKF4S24
 
 ## Step 2:
 
-* Transaction ID from account A: 
-* Transaction ID from account B: 
+* Transaction ID from account A: MWPPK2JYZNTRMSOZJDQ7QLJIHGJ5ZRRBDC2SBME5PJZSTYE6EFWA
+* Transaction ID from account B: LFOTQVMQ3Y6OBBD7FQR6RG2MZHTJTVTZCNPANMR6Z26D5THJVAVQ
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: 14065375
+* Name of the asset: Flaming Hot Cheetos
 
 ## Step 3.2:
 
-* Transaction ID for opt-in of account B:
+* Transaction ID for opt-in of account B: 2YVJ5TYVG74BNXGHXJVRHDSFDWDW2AVWRJGHHGJCTU3LWTY7DU4A
 
 ## Step 3.3:
 
-* Transaction ID for transfer of asset from A to B:
+* Transaction ID for transfer of asset from A to B: SGJVHXQQU2T2XGEHJQNON5JQQ7NF4V4C6NNST3JDJP57RYF6G46DZZX4LQ
 
 ## Step 4:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: SGJVHXQQU2T2XGEHJQNON5JQQ7NF4V4C6NNST3JDJP57RYF6G46DZZX4LQ
 
 ## Step 5.1:
 
-* Transaction ID for opt-in of account A:
+* Transaction ID for opt-in of account A: BEK57ZZVJ742MMC4S6YVZCSL2PBMTMY5VW7ENXMXOFWFKS4HR3NQ
 
 ## Step 5.2:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: 4O6BRAPVLX5ID23AZWV33TICD35TI6JWOHXVLPGO4VRJATO6MZZQRKC7RI
